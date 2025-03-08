@@ -35,8 +35,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://withcodeexample.com/wp-content/uploads/2025/01/getting-started-with-python-fastapi-a-comprehensive-guide-image.jpg
-" alt="fastapi" width="40" height="40"/> 
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="fastapi" width="40" height="40"/> 
 </p>
 
 
